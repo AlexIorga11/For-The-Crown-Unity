@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 87537af67186bb047910dbf503676804
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7118327842164308993
+    second: Button Font Outlined_0
+  - first:
+      213: 1297124362999650129
+    second: Button Font Outlined_1
+  - first:
+      213: 5880096204550394582
+    second: Button Font Outlined_2
+  - first:
+      213: 634903087765248759
+    second: Button Font Outlined_3
+  - first:
+      213: -5580470254656606646
+    second: Button Font Outlined_4
+  - first:
+      213: -3846888571651858964
+    second: Button Font Outlined_5
+  - first:
+      213: -1262352700335160062
+    second: Button Font Outlined_6
+  - first:
+      213: 6686027936741336150
+    second: Button Font Outlined_7
+  - first:
+      213: -7427046012336488872
+    second: Button Font Outlined_8
+  - first:
+      213: -1507031623705823376
+    second: Button Font Outlined_9
+  - first:
+      213: -8080656806528184691
+    second: Button Font Outlined_10
+  - first:
+      213: 4433712027519047321
+    second: Button Font Outlined_11
+  - first:
+      213: -7390182832287982373
+    second: Button Font Outlined_12
+  - first:
+      213: 4922812693551275404
+    second: Button Font Outlined_13
+  - first:
+      213: 3617835292721535758
+    second: Button Font Outlined_14
+  - first:
+      213: 36032916838129464
+    second: Button Font Outlined_15
+  - first:
+      213: -8329618178072319824
+    second: Button Font Outlined_16
+  - first:
+      213: -2646125074965682948
+    second: Button Font Outlined_17
+  - first:
+      213: -8203650817047768187
+    second: Button Font Outlined_18
+  - first:
+      213: -8905668721995469598
+    second: Button Font Outlined_19
+  - first:
+      213: 8062383785970259711
+    second: Button Font Outlined_20
+  - first:
+      213: 403709119078284586
+    second: Button Font Outlined_21
+  - first:
+      213: 3525242295008629098
+    second: Button Font Outlined_22
+  - first:
+      213: -736211362113879820
+    second: Button Font Outlined_23
+  - first:
+      213: -6093210326383188000
+    second: Button Font Outlined_24
+  - first:
+      213: -370990144586569771
+    second: Button Font Outlined_25
+  - first:
+      213: -8458541997974485421
+    second: Button Font Outlined_26
+  - first:
+      213: -1727208138095956505
+    second: Button Font Outlined_27
+  - first:
+      213: 2260355481341683969
+    second: Button Font Outlined_28
+  - first:
+      213: -6109276968061926288
+    second: Button Font Outlined_29
+  - first:
+      213: -2079630566835569455
+    second: Button Font Outlined_30
+  - first:
+      213: -1743541352773648379
+    second: Button Font Outlined_31
+  - first:
+      213: 7927620502276031951
+    second: Button Font Outlined_32
+  - first:
+      213: 6845760707531758994
+    second: Button Font Outlined_33
+  - first:
+      213: 3805535995485140516
+    second: Button Font Outlined_34
+  - first:
+      213: -5373748747358462045
+    second: Button Font Outlined_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Font Outlined_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cf9fa357169c260800000000000000
+      internalID: 7118327842164308993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15759165cbf400210800000000000000
+      internalID: 1297124362999650129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2595d085c4a9150800000000000000
+      internalID: 5880096204550394582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fadb059ef0afc800800000000000000
+      internalID: 634903087765248759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2f87bedf2e82b0800000000000000
+      internalID: -5580470254656606646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced5e2cc93b1d9ac0800000000000000
+      internalID: -3846888571651858964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205844348e83b7ee0800000000000000
+      internalID: -1262352700335160062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542ecffbfa89cc50800000000000000
+      internalID: 6686027936741336150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eb3308005dde890800000000000000
+      internalID: -7427046012336488872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077fbbb09b2f51be0800000000000000
+      internalID: -1507031623705823376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e8b07927dbbdf80800000000000000
+      internalID: -8080656806528184691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 31
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99656a42995b78d30800000000000000
+      internalID: 4433712027519047321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd8407edbc07990800000000000000
+      internalID: -7390182832287982373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d58e60018515440800000000000000
+      internalID: 4922812693551275404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bd986d702253230800000000000000
+      internalID: 3617835292721535758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f9b583fb3008000800000000000000
+      internalID: 36032916838129464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ec553660476c80800000000000000
+      internalID: -8329618178072319824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4aa6b9343174bd0800000000000000
+      internalID: -2646125074965682948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5835684fb07c62e80800000000000000
+      internalID: -8203650817047768187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec272a4b75b86480800000000000000
+      internalID: -8905668721995469598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff650a5465753ef60800000000000000
+      internalID: 8062383785970259711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d3f3b0e434a9500800000000000000
+      internalID: 403709119078284586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 18
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a611c25903d2ce030800000000000000
+      internalID: 3525242295008629098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08891baa378c5f0800000000000000
+      internalID: -736211362113879820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7203acd71907ba0800000000000000
+      internalID: -6093210326383188000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 18
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d72fb8dd6af9daf0800000000000000
+      internalID: -370990144586569771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356020d3ed83d9a80800000000000000
+      internalID: -8458541997974485421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed60ab7959b708e0800000000000000
+      internalID: -1727208138095956505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1096a7b95556e5f10800000000000000
+      internalID: 2260355481341683969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074813447fc773ba0800000000000000
+      internalID: -6109276968061926288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcb8bf840ba323e0800000000000000
+      internalID: -2079630566835569455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50009b89062bdc7e0800000000000000
+      internalID: -1743541352773648379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5444038d0940e60800000000000000
+      internalID: 7927620502276031951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd1c5d717010f50800000000000000
+      internalID: 6845760707531758994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426bad643daffc430800000000000000
+      internalID: 3805535995485140516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font Outlined_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af9f715cfb9c65b0800000000000000
+      internalID: -5373748747358462045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

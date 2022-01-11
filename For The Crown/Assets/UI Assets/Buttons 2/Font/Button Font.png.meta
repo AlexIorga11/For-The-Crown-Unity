@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 39527178a5ad29d4780aae81d388b052
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7624289917822519786
+    second: Button Font_0
+  - first:
+      213: -724710320540125326
+    second: Button Font_1
+  - first:
+      213: 4084201372273936807
+    second: Button Font_2
+  - first:
+      213: 40451273280712764
+    second: Button Font_3
+  - first:
+      213: -7933966613217440821
+    second: Button Font_4
+  - first:
+      213: 3510977563535189656
+    second: Button Font_5
+  - first:
+      213: -1336472979125000826
+    second: Button Font_6
+  - first:
+      213: 5983378389370607511
+    second: Button Font_7
+  - first:
+      213: 507552923419367038
+    second: Button Font_8
+  - first:
+      213: 5617785636433972358
+    second: Button Font_9
+  - first:
+      213: -2898871888477044163
+    second: Button Font_10
+  - first:
+      213: 903358626092174298
+    second: Button Font_12
+  - first:
+      213: -3752188266124349182
+    second: Button Font_13
+  - first:
+      213: 6302752489999402331
+    second: Button Font_14
+  - first:
+      213: 918851266651912058
+    second: Button Font_15
+  - first:
+      213: 442294665731219717
+    second: Button Font_16
+  - first:
+      213: -6024880421495046363
+    second: Button Font_17
+  - first:
+      213: 397479978474173276
+    second: Button Font_18
+  - first:
+      213: 311673263449431246
+    second: Button Font_19
+  - first:
+      213: -4314631048475863670
+    second: Button Font_20
+  - first:
+      213: 6600042446905416638
+    second: Button Font_21
+  - first:
+      213: 2323682570777941370
+    second: Button Font_22
+  - first:
+      213: -2938675689124062982
+    second: Button Font_23
+  - first:
+      213: -8582112443145829244
+    second: Button Font_24
+  - first:
+      213: 2805074778634044410
+    second: Button Font_25
+  - first:
+      213: 7277471991985725636
+    second: Button Font_26
+  - first:
+      213: 2872305249848076258
+    second: Button Font_27
+  - first:
+      213: 6054062608610730806
+    second: Button Font_28
+  - first:
+      213: 579787061681124048
+    second: Button Font_29
+  - first:
+      213: 7753833721589973495
+    second: Button Font_30
+  - first:
+      213: -8641567511671464146
+    second: Button Font_31
+  - first:
+      213: 4713947324548770271
+    second: Button Font_32
+  - first:
+      213: -8475492156029172942
+    second: Button Font_33
+  - first:
+      213: 2046397146121702727
+    second: Button Font_11
+  - first:
+      213: -3035584806271982764
+    second: Button Font_34
+  - first:
+      213: -7987345171626268066
+    second: Button Font_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Font_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b89707b4113690800000000000000
+      internalID: -7624289917822519786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277752b9dcf41f5f0800000000000000
+      internalID: -724710320540125326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a90d81528ffda830800000000000000
+      internalID: 4084201372273936807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30fb9ef736bf8000800000000000000
+      internalID: 40451273280712764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 46
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb8d57b663e4e190800000000000000
+      internalID: -7933966613217440821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a1e8fd7f79b030800000000000000
+      internalID: 3510977563535189656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a85b08e4e37de0800000000000000
+      internalID: -1336472979125000826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971f2f91fa390350800000000000000
+      internalID: 5983378389370607511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e765f19d1b03b0700800000000000000
+      internalID: 507552923419367038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c40f3a54266fd40800000000000000
+      internalID: 5617785636433972358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c5f5506325c7d0800000000000000
+      internalID: -2898871888477044163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb420d52ef598c00800000000000000
+      internalID: 903358626092174298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f443e6ac8debc0800000000000000
+      internalID: -3752188266124349182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558f990fffd77750800000000000000
+      internalID: 6302752489999402331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a777436db5a60cc00800000000000000
+      internalID: 918851266651912058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a5f4b7a8532600800000000000000
+      internalID: 442294665731219717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ff4968d23536ca0800000000000000
+      internalID: -6024880421495046363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53784a3fe1248500800000000000000
+      internalID: 397479978474173276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccd3e98e29435400800000000000000
+      internalID: 311673263449431246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8599badbe95f14c0800000000000000
+      internalID: -4314631048475863670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb1c4e03af089b50800000000000000
+      internalID: 6600042446905416638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a755cf99cf06f3020800000000000000
+      internalID: 2323682570777941370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af81fafc70ab737d0800000000000000
+      internalID: -2938675689124062982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48445d3f33636e880800000000000000
+      internalID: -8582112443145829244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c3e436a0ade620800000000000000
+      internalID: 2805074778634044410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e9211836cef460800000000000000
+      internalID: 7277471991985725636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e72fa7186a7cd720800000000000000
+      internalID: 2872305249848076258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633a732edd9540450800000000000000
+      internalID: 6054062608610730806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2fed0c241db0800800000000000000
+      internalID: 579787061681124048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1c0de20b62b9b60800000000000000
+      internalID: 7753833721589973495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f1444122cf21880800000000000000
+      internalID: -8641567511671464146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9e1a9bd1e4b6140800000000000000
+      internalID: 4713947324548770271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23385470ac0016a80800000000000000
+      internalID: -8475492156029172942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d05f3bc53466c10800000000000000
+      internalID: 2046397146121702727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453e590b3bf6fd5d0800000000000000
+      internalID: -3035584806271982764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Font_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ae8ca92ef372190800000000000000
+      internalID: -7987345171626268066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
